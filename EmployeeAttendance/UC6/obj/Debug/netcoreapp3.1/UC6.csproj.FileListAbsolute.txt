@@ -1,0 +1,13 @@
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.exe
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.deps.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.runtimeconfig.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\bin\Debug\netcoreapp3.1\UC6.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC6\obj\Debug\netcoreapp3.1\UC6.genruntimeconfig.cache

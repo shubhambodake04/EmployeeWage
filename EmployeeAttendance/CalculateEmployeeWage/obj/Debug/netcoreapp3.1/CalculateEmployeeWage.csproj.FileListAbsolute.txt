@@ -1,0 +1,13 @@
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.exe
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.deps.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.runtimeconfig.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\bin\Debug\netcoreapp3.1\CalculateEmployeeWage.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\CalculateEmployeeWage\obj\Debug\netcoreapp3.1\CalculateEmployeeWage.genruntimeconfig.cache

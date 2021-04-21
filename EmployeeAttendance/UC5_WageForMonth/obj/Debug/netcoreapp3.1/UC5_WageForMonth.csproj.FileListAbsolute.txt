@@ -1,0 +1,12 @@
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.exe
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.deps.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.runtimeconfig.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.genruntimeconfig.cache

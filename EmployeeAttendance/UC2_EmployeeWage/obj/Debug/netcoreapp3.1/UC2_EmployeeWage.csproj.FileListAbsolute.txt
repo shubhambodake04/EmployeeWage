@@ -1,0 +1,12 @@
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.exe
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.deps.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.runtimeconfig.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\bin\Debug\netcoreapp3.1\UC2_EmployeeWage.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.dll
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.pdb
+C:\Users\Shubham\source\repos\EmployeeAttendance\UC2_EmployeeWage\obj\Debug\netcoreapp3.1\UC2_EmployeeWage.genruntimeconfig.cache
